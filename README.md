@@ -1,10 +1,8 @@
 # Estatistica
 
-Roteiros de aprendizagem de estatística e projetos finais executados durante o curso de estatística na Alura
+Roteiros de aprendizagem de estatística e projetos finais executados durante o curso de estatística na Alura, bem como uma introdução à testes estatístico com Python.
 
-O módulo de estatística com python é divido em 2 partes, contando com 2 roteiros e 2 projetos finais.
-
-Conteúdos Parte 01:
+Conteúdos Estatística Parte 01:
 - Tipo de dados
 - Distribuição de frequência
 - Medidas de tendência central
@@ -14,7 +12,7 @@ Conteúdos Parte 01:
 
 
 
-Conteúdos Parte 02:
+Conteúdos Estatística Parte 02:
 - Distribuição binominal
 - Distribuição de Poisson
 - Distribuição normal
@@ -22,5 +20,13 @@ Conteúdos Parte 02:
 - Nível e intervalo de confiança
 - Calculando o tamanho da amostra
 - Projeto final 02
+
+
+Conteúdo Introdução a testes estatísticos:
+- Visualização e distribuição de dados coletados
+- Levantamento de perguntas e hipóteses
+- Respondendo as hipóteses através de testes
+- Intervalos de confiança
+- Comparação de dois grupos de amostras
 
 
